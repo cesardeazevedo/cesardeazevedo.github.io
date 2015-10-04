@@ -7,7 +7,8 @@ import Flex exposing (..)
 
 picture : Html
 picture =
-    let path = "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/p160x160/10404090_581122701988040_4790271436818345326_n.jpg?oh=a8d1a2744e5c55a015fde94d0f75dac3&oe=5602937F&__gda__=1439697346_44c2603e33b80e87c496d5a83cd465aa"
+    let path = "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/p200x200/10404090_581122701988040_4790271436818345326_n.jpg?oh=027d73a475acc14e2281d2edf8c6e1ec&oe=56A8448F&__gda__=1453352498_f1a8dd574552a34b2cbc2589d880cf55"
+
         styles = style
           [ ("width", "100px")
           , ("height", "100px")
