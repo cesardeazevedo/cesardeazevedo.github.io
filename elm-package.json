@@ -8,9 +8,9 @@
     ],
     "exposed-modules": [],
     "dependencies": {
-        "TheSeamau5/flex-html": "1.0.2 <= v < 2.0.0",
+        "TheSeamau5/flex-html": "1.0.2 <= v < 2.0.1",
         "elm-lang/core": "1.1.1 <= v < 2.0.0",
-        "evancz/elm-html": "3.0.0 <= v < 4.0.0"
+        "evancz/elm-html": "3.0.0 <= v < 4.0.2"
     },
     "elm-version": "0.15.0 <= v < 0.16.0"
 }
